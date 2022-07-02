@@ -6,3 +6,7 @@
 .navbar{
     border: 10px;
 }
+
+p.introduction{
+    text-align:center;
+}
