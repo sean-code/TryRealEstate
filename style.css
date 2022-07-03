@@ -18,14 +18,14 @@ p.logo{
 }
 
 .btn{
-    border-radius: 40px;
+    border-radius: 8px;
     border: 0;
-    font-weight: 600;
+    font-weight: 400;
     margin:1rem 0;
-    padding:2rem 3rem;
+    padding:10px;
     background-color:#0F298B;
+    background-size: contain;
     
-
      
 }
 h1{
@@ -39,12 +39,8 @@ body{
     font-size: x-large;
 }
 
-#button{
-    padding: 0px;
-    border-radius:0px;
-    border-style: solid;
-    border-color: blue;
-    box-sizing: content-box;
+p.content{
+    text-align: center;
 }
 
 
@@ -67,4 +63,8 @@ h3{
 }
 #our-products{
     display:inline
+}
+.image4{
+    display:flex;
+    align-items:baseline;
 }
