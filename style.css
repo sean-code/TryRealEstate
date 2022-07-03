@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk&display=swap');
+p.logo{
+    font-family: 'Oleo Script', cursive;
+}
+
+body{
+    
+}
+.navbar li{
+    display: inline-block;
+    padding-right: 10px;
+}
+.navbar li{
+    float:right
+}
+.getstart li{
+    display: inline-block;
+    padding-right: 10px;
+}
+.image2{
+    position:center;
+    padding: 10px;
+}
+
+h3{
+    color: blue;
+}
+h3.how{
+    text-align: center;
+}
