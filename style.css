@@ -2,6 +2,7 @@
 .navbar li{
     display: inline;
     font-size: xx-large;
+    padding: 20px;
     padding-top: 300px;
     padding-right: 100px;
     border-bottom-style: solid;
@@ -61,27 +62,40 @@ h3{
 .image1{
     display:flex;
     align-items: center;
+
+}
+ul.search{
+    display:flex;
+    text-align: center;
+    padding-left: 500px;
 }
 #our-products{
     display:flex;
     text-align: center;
     margin-left: 100px;
-    padding: 100px;
+    padding: 150px;
     align-items: baseline;
+}
+
+#view-more{
+    display:inline-block
+    text-align: right;
 }
 
 ul{
     list-style-type: none;
 }
+
 ul.qualities{
     text-align: right;
     
 }
 .menu li{
     display:inline
+
 }
 .footer{
-    color:aliceblue;
+    color:white;
     background-color: #0F298B;
 }
 .footer-list{
