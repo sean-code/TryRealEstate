@@ -68,3 +68,17 @@ h3{
 ul{
     list-style-type: none;
 }
+ul.qualities{
+    text-align: right;
+    
+}
+.menu li{
+    display:inline
+}
+.footer{
+    color:aliceblue;
+    background-color: blue;
+}
+.footer-list{
+    display:flex;
+}
