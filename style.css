@@ -64,7 +64,7 @@ h3{
 #our-products{
     display:inline
 }
-.image4{
-    display:flex;
-    align-items:baseline;
+
+ul{
+    list-style-type: none;
 }
