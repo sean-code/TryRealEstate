@@ -16,6 +16,18 @@ p.logo{
     margin-top:0px;
     border-bottom-right-radius: 10px;
 }
+
+.btn{
+    border-radius: 40px;
+    border: 0;
+    font-weight: 600;
+    margin:1rem 0;
+    padding:2rem 3rem;
+    background-color:#0F298B;
+    
+
+     
+}
 h1{
     
     padding-left:50px;
