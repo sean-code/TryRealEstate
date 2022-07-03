@@ -64,6 +64,10 @@ h3{
 }
 #our-products{
     display:flex;
+    text-align: center;
+    margin-left: 100px;
+    padding: 100px;
+    align-items: baseline;
 }
 
 ul{
