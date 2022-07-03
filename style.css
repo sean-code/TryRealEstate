@@ -77,12 +77,19 @@ ul.qualities{
 }
 .footer{
     color:aliceblue;
-    background-color: blue;
+    background-color: #0F298B;
 }
 .footer-list{
-    display:flex;
+    display:inline-flex;
+    text-align:center;
+    padding:100px;
+    margin-left: 50px;
+
 }
 .menu{
     display:flex;
+    text-align: center;
+    padding: 20px;
+    margin-left: 50px;
 
 }
