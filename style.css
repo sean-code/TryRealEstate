@@ -110,7 +110,7 @@ ul.qualities{
     display:inline-flex;
     text-align:center;
     padding:100px;
-    margin-left: 50px;
+    margin-left: 150px;
 
 }
 .menu{
@@ -118,6 +118,7 @@ ul.qualities{
     text-align: center;
     padding: 20px;
     margin-left: 50px;
+    letter-spacing: 1px;
 }
 .links{
     color:#FAFAFA;
