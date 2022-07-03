@@ -25,6 +25,7 @@ p.logo{
     padding:10px;
     background-color:#0F298B;
     background-size: contain;
+    color:white;
     
      
 }
@@ -62,7 +63,7 @@ h3{
     align-items: center;
 }
 #our-products{
-    display:inline
+    display:flex;
 }
 
 ul{
@@ -91,5 +92,8 @@ ul.qualities{
     text-align: center;
     padding: 20px;
     margin-left: 50px;
+}
+.links{
+    color:white;
 
 }
