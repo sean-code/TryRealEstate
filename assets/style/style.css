@@ -77,6 +77,7 @@ ul.search{
     margin-left: 100px;
     padding: 150px;
     align-items: baseline;
+    justify-content: space-evenly;
 }
 
 #view-more{
