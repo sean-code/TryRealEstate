@@ -74,9 +74,8 @@ ul.search{
 #our-products{
     display:flex;
     text-align: center;
-    margin-left: 100px;
-    padding: 150px;
-    align-items: baseline;
+    justify-content: space-between;
+    
 }
 
 #view-more{
