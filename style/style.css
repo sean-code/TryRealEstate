@@ -74,8 +74,9 @@ ul.search{
 #our-products{
     display:flex;
     text-align: center;
-    justify-content: space-between;
-    
+    margin-left: 100px;
+    padding: 150px;
+    align-items: baseline;
 }
 
 #view-more{
@@ -96,6 +97,7 @@ ul.qualities{
     color:#FAFAFA;
     background-color: #0F298B;
     text-decoration:none;
+    justify-content: space-evenly;
 }
 .footer-list{
     display:inline-flex;
@@ -108,10 +110,17 @@ ul.qualities{
 .menu{
     display:flex;
     text-align: center;
+    justify-content: space-between;
     padding: 20px;
     margin-left: 50px;
     letter-spacing: 1px;
 }
 .links{
     color:#FAFAFA;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: justify;
 }
