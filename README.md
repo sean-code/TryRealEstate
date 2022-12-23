@@ -1,7 +1,7 @@
 Vallie's Estate Website
 
 ## Authors
-- [sean-code](https://github.com/sean-code)
+- [John Nganga](https://github.com/sean-code)
 
 ## Project setup instructions
 To start using this project use the following commands:
@@ -22,7 +22,7 @@ Go Back to the top
 
 ## License Information
 MIT License
-Copyright (c) 2022 Moringa School
+Copyright (c) 2022 John Nganga
 
 Permission is therefore granted, free of charge to anyone obtaining a duplicate
 of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights
