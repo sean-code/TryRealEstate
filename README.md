@@ -8,8 +8,17 @@ To start using this project use the following commands:
 
 - `git clone https://github.com/sean-code/TryRealEstate.git`
 - `cd TryRealEstate'
-- `atom .`
-- `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
+
+# Technology Used
+Figma - To design the whole layout
+
+HTML - To lay out and build the structure of the website
+
+CSS - To style the website to match the figma design
+
+# Reference
+Materialize CSS
+Go Back to the top
 
 ## License Information
 MIT License
@@ -24,3 +33,5 @@ THE SOFTWARE IS PROVIDED "AS IT IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. UNDER NO EVENT SHALL THE
 AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGE OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT OR IN RELATION TO THE SOFTWARE.
+
+### Hope you enjoy as I did creating it !!
